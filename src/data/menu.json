@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "slug": "entrees",
+      "title": "Entrées",
+      "intro": "Petites assiettes à partager, fraîches et parfumées, pour ouvrir l’appétit.",
+      "items": [
+        {"title": "Raviolis vapeur aux crevettes", "description": "Pâte fine, farce délicate, sauce soja à part.", "allergens": ["crustacés", "gluten", "soja"], "imageKeyword": "shrimp dumplings dim sum close up"},
+        {"title": "Brochette de poulet satay", "description": "Marinade douce, sauce cacahuète.", "allergens": ["arachides"], "imageKeyword": "chicken satay skewers"},
+        {"title": "Salade de concombre au sésame", "description": "Marin croquant, sésame toasté, coriandre.", "allergens": ["sésame"], "imageKeyword": "asian cucumber salad"},
+        {"title": "Gyozas végétariens (4)", "description": "Légumes de saison, tofu, cuisson vapeur-poêlée.", "allergens": ["gluten", "soja"], "imageKeyword": "vegetarian gyoza"},
+        {"title": "Soupe miso claire", "description": "Bouillon clair, tofu soyeux, cébette.", "allergens": ["soja"], "imageKeyword": "miso soup clear"},
+        {"title": "Nems croustillants", "description": "Dorés, farce maison, herbes fraîches.", "allergens": ["gluten"], "imageKeyword": "spring rolls crispy"}
+      ]
+    },
+    {
+      "slug": "plats-principaux",
+      "title": "Plats principaux",
+      "intro": "Recettes traditionnelles modernisées, cuisson précise, dressage soigné.",
+      "items": [
+        {"title": "Canard croustillant à la pékinoise", "description": "Peau caramélisée, blinis maison, sauce cinq épices.", "allergens": ["gluten", "soja"], "imageKeyword": "crispy duck plated"},
+        {"title": "Bœuf au poivre Sichuan & asperges belges", "description": "Marinade légère, wok minute.", "allergens": ["soja"], "imageKeyword": "szechuan beef asparagus"},
+        {"title": "Poulet kung pao", "description": "Cacahuètes, piment doux, sauce soyeuse.", "allergens": ["arachides", "soja"], "imageKeyword": "kung pao chicken"},
+        {"title": "Poisson vapeur gingembre-ciboule", "description": "Léger, aromatique, huile de sésame.", "allergens": ["poisson", "sésame", "soja"], "imageKeyword": "chinese steamed fish ginger scallion"},
+        {"title": "Tofu fumé, champignons et riz jasmin", "description": "Végétarien, riche en umami.", "allergens": ["soja"], "imageKeyword": "tofu mushrooms jasmine rice"},
+        {"title": "Porc laqué cantonais", "description": "Caramélisé, laqué maison, riz parfumé.", "allergens": ["soja"], "imageKeyword": "char siu rice"}
+      ]
+    },
+    {
+      "slug": "nouilles-riz",
+      "title": "Nouilles & Riz",
+      "intro": "Classiques du wok, textures souples, parfums grillés.",
+      "items": [
+        {"title": "Nouilles sautées aux légumes", "description": "Wok de saison, huile d’ail.", "allergens": ["gluten", "soja"], "imageKeyword": "stir fry noodles vegetables"},
+        {"title": "Chow mein au bœuf", "description": "Nouilles crousti-moelleuses, bœuf mariné.", "allergens": ["gluten", "soja"], "imageKeyword": "beef chow mein"},
+        {"title": "Riz cantonais", "description": "Jambon, petits pois, œuf, ciboule.", "allergens": ["œuf", "soja"], "imageKeyword": "egg fried rice cantonese"},
+        {"title": "Riz jasmin nature", "description": "Parfumé, cuisson parfaite.", "allergens": [], "imageKeyword": "jasmine rice bowl"}
+      ]
+    },
+    {
+      "slug": "soupes",
+      "title": "Soupes",
+      "intro": "Bouillons clairs, infusions délicates, herbes fraîches.",
+      "items": [
+        {"title": "Soupe won ton", "description": "Bouillon clair, raviolis maison.", "allergens": ["gluten", "soja"], "imageKeyword": "wonton soup clear"},
+        {"title": "Soupe pékinoise aigre-douce", "description": "Équilibre relevé, tofu et champignons.", "allergens": ["soja", "œuf"], "imageKeyword": "hot sour soup"}
+      ]
+    },
+    {
+      "slug": "dim-sum",
+      "title": "Dim Sum",
+      "intro": "Petites bouchées à la vapeur, roulées à la main chaque jour.",
+      "items": [
+        {"title": "Har gow (crevettes)", "description": "Pâte translucide, farce délicate.", "allergens": ["crustacés", "gluten"], "imageKeyword": "har gow dim sum"},
+        {"title": "Siu mai (porc)", "description": "Vapeur, notes de gingembre.", "allergens": ["gluten"], "imageKeyword": "siu mai dim sum"},
+        {"title": "Bao végétarien", "description": "Pâte moelleuse, légumes parfumés.", "allergens": ["gluten"], "imageKeyword": "vegetarian bao"}
+      ]
+    },
+    {
+      "slug": "desserts",
+      "title": "Desserts",
+      "intro": "Douceurs légères, sucre maîtrisé, textures moelleuses.",
+      "items": [
+        {"title": "Perles de coco", "description": "Coeur sucré, miel d’acacia.", "allergens": [], "imageKeyword": "coconut rice balls dessert"},
+        {"title": "Crème au sésame noir", "description": "Veloutée, parfum prononcé.", "allergens": ["sésame"], "imageKeyword": "black sesame dessert"}
+      ]
+    },
+    {
+      "slug": "boissons",
+      "title": "Boissons",
+      "intro": "Sélection thés, softs et accords mets-boissons.",
+      "items": [
+        {"title": "Thé jasmin (chaud)", "description": "Parfum floral.", "allergens": [], "imageKeyword": "jasmine tea cup"},
+        {"title": "Thé oolong (froid)", "description": "Infusion lente, glaçons.", "allergens": [], "imageKeyword": "iced oolong tea"},
+        {"title": "Limonade maison au gingembre", "description": "Vive et fraîche.", "allergens": [], "imageKeyword": "ginger lemonade"}
+      ]
+    }
+  ]
+}
